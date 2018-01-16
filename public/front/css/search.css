@@ -1,25 +1,4 @@
-.lt_search {
-  padding: 10px;
-  position: relative;
-}
 
-/*lt_search的样式*/
-.lt_search .search_text {
-  height: 34px;
-  margin-bottom: 0;
-  border: 1px solid #007aff;
-  font-size: 12px;
-  padding: 0;
-  padding-left: 15px;
-  border-radius: 5px;
-}
-
-.lt_search .search_btn {
-  position: absolute;
-  right: 10px;
-  top: 10px;
-  border-radius: 0 5px 5px 0;
-}
 .lt_history {
   padding: 10px;
   font-size: 12px;
